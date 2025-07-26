@@ -1,5 +1,5 @@
 # sfdx-HandsMen-Threads
--      Developing a premium fashion platform to streamline men’s bespoke tailoring and enhance customer experience through personalized styling and seamless order management.
+ _Developing a premium fashion platform to streamline men’s bespoke tailoring and enhance customer experience through personalized styling and seamless order management._
 
 HandsMen Threads, a dynamic organization in the fashion industry, is embarking on a Salesforce project designed to revolutionize their data management and enhance customer relations. The project involves building a robust data model tailored to store all pertinent business data, ensuring a seamless flow of information across the organization.
 
